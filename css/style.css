@@ -329,6 +329,9 @@ transform: rotate(360deg);
 .home-slider .item-third {
 	background-image: url(../images/slider-image3.jpg);
 }
+.home-slider .item-four {
+	background-image: url(../images/slider-image4.jpg);
+}
 /*---------------------------------------
       FEATURE              
   -----------------------------------------*/
